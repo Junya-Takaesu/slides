@@ -1,5 +1,8 @@
 # スライド powerd by reveal.js
 
+## Slides
+- [Elasticsearch から Opensearch への爆発アップデート](https://junya-takaesu.github.io/slides/lightning-talks/2022-03-13T10:57:27+0900_elasticsearch-to-opensearch/)
+
 ## 使い方など
 ### Github pages で公開するには
 - `vscode-reveal` の拡張機能で、HTMLにエクスポートする
