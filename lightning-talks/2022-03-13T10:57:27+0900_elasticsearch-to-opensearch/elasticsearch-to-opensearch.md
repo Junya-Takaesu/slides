@@ -1,13 +1,13 @@
 ---
 theme : "night"
-transition: "slide"
-highlightTheme: "monokai"
-logoImg: "https://www.ca-adv.co.jp/common/images/share/logo.svg"
-slideNumber: true
+transition : "fade"
+highlightTheme : "monokai"
+logoImg : "https://www.ca-adv.co.jp/common/images/share/logo.svg"
+slideNumber : true
 title: "Elasticsearch から Opensearch への爆発アップデート"
 ---
 
-<link rel="stylesheet" href="lightning-talks/2022-03-13T10:57:27+0900_elasticsearch-to-opensearch/css/custom.css" id="theme">
+<link rel="stylesheet" href="css/custom.css" id="theme">
 
 ## 爆発アップデート💥の話 <br><br> <small>Elasticsearch v1.3 💩</small><br> ↓ <br><small>Opensearch v1.1 👍</small>
 
@@ -21,7 +21,7 @@ title: "Elasticsearch から Opensearch への爆発アップデート"
 
 ---
 
-<!-- .slide: data-background=lightning-talks/2022-03-13T10:57:27+0900_elasticsearch-to-opensearch/imgs/elastic-search-background.png -->
+<!-- .slide: data-background="imgs/elastic-search-background.png" -->
 
 <div class="black-glass-effect">
 
@@ -41,7 +41,7 @@ Elasticsearchは、分散型RESTful検索/分析エンジン
 
 --
 
-<!-- .slide: data-background=lightning-talks/2022-03-13T10:57:27+0900_elasticsearch-to-opensearch/imgs/opensearch.png -->
+<!-- .slide: data-background="imgs/opensearch.png" -->
 
 
 <div class="black-glass-effect">
@@ -97,7 +97,7 @@ CX+にアクセスしにくくなる障害が発生しました 😢
 
 <div class="black-glass-effect">
 
-<!-- .slide: data-background=lightning-talks/2022-03-13T10:57:27+0900_elasticsearch-to-opensearch/imgs/rocket.jpg -->
+<!-- .slide: data-background="imgs/rocket.jpg" -->
 
 ## 3/9 <br> CX+ で使っていた Elasticsearch サーバーを Opensearch に爆発アップデートさせました！
 
