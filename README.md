@@ -6,8 +6,9 @@
 ## 使い方など
 ### Github pages で公開するには
 - `vscode-reveal` の拡張機能で、HTMLにエクスポートする
-- エクスポートされたファイルを、`gh-pages` ディレクトリ配下に配置
-- `gh-pages` を github pages の公開フォルダに設定する
+- エクスポートされたファイルを、`docs` ディレクトリ配下に配置
+  - ファイルの階層構造は、export 前の `lightning-talks` 内の構造と同じにする(自分が管理しやすいため)
+- `docs` を github pages の公開フォルダに設定する
 
 ## 注意事項
 ### 拡張機能 `vscode-reveal`
